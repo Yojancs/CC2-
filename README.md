@@ -67,7 +67,7 @@ Esta condición permite trabajar con un intervalo vertical que incluye el extrem
 
 ## 4. ¿Qué representa Δx/Δy durante la actualización de la EAT?
 
-El valor \(\Delta x/\Delta y\) representa la pendiente inversa de una arista, es decir, la variación horizontal de la arista por cada unidad de variación vertical. Este valor permite actualizar de manera incremental la coordenada X de la intersección sin tener que calcular nuevamente la ecuación completa de la recta en cada fila.
+El valor $$ \(\Delta x/\Delta y\) $$  representa la pendiente inversa de una arista, es decir, la variación horizontal de la arista por cada unidad de variación vertical. Este valor permite actualizar de manera incremental la coordenada X de la intersección sin tener que calcular nuevamente la ecuación completa de la recta en cada fila.
 
 Se calcula mediante la siguiente fórmula:
 
